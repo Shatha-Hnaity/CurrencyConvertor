@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="txtTitle">Currency Converter App</string>
+    <string name="euroNum">Euro</string>
+    <string name="mexNum">Mexican peso</string>
+    <string name="canadianNum">Canadian Dollar</string>
+    <string name="btnConvert">Convert</string>
+    <string name="txtView">converted Value</string>
+    <string name="txtEdit">Monetary Value (U.S Dollar)</string>
+    <string name="radioG">radioGroup</string>
+</resources>
